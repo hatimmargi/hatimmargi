@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hatim Margi</h1>
-<h3 align="center">A frontend developer & Visual Designer from Sudan</h3>
+<h3 align="center">A Frontend Developer & Visual Designer from Sudan</h3>
 
 - 🌱 I’m currently learning **JavaScript & React.js**
 
